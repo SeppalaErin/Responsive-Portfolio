@@ -3,19 +3,28 @@
     height: 300px;
     color: white;
     text-align: center;
+    padding-top: 130px;
 }
 
 .page {
     padding-left: 20%;
     padding-right: 20%;
-    background: rgb(212, 212, 212);
+    padding-bottom: 60px;
+
 }
 
 .footer {
     position: fixed;
     bottom: 0;
+    height: 60px;
     width: 100%;
     background-color: rgb(39, 39, 39);
     color: white;
     text-align: center;
+}
+
+.port-recent {
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    font-size: 300%;
 }
