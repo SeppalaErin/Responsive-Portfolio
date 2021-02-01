@@ -8,14 +8,14 @@
 .page {
     padding-left: 20%;
     padding-right: 20%;
+    background: rgb(212, 212, 212);
 }
 
 .footer {
-    position: relative;
+    position: fixed;
     bottom: 0;
     width: 100%;
     background-color: rgb(39, 39, 39);
     color: white;
     text-align: center;
 }
-
