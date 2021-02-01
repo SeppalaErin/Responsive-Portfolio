@@ -1,8 +1,21 @@
+.top-page {
+    background-image: url("C:/Users/Erin/Desktop/Stuff/Homework-2/assets/img/night-sky.png");
+    height: 300px;
+    color: white;
+    text-align: center;
+}
+
+.page {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
 .footer {
     position: relative;
     bottom: 0;
     width: 100%;
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(39, 39, 39);
     color: white;
     text-align: center;
 }
+
