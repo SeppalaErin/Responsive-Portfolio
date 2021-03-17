@@ -6,6 +6,13 @@ body, html{
     font-family: sans-serif;
 }
 
+.intro{
+    background-color: white;
+    margin-top: 30px;
+    padding: 30px;
+    box-shadow: 10px 10px 5px grey;
+}
+
 .top-page {
     background-image: url("../img/night-sky.png");
     height: 300px;
